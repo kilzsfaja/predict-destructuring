@@ -19,7 +19,7 @@ const { name: otherName } = employee;
 console.log(name);
 console.log(otherName);
 // error
-// error
+// Elon
 
 // 3
 const person = {
@@ -60,6 +60,6 @@ console.log(secondKey);
 console.log(secondKey[0]);
 console.log(willThisWork);
 // 'value'
-// error
+// [ ... ]]
 // 1
 // 5
