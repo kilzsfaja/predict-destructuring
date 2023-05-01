@@ -60,6 +60,6 @@ console.log(secondKey);
 console.log(secondKey[0]);
 console.log(willThisWork);
 // 'value'
-// [ ... ]]
+// [ ... ]
 // 1
 // 5
